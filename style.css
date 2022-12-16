@@ -412,7 +412,7 @@
 	align-items:end;
 	width:70%;}
 .div-2 p{margin:10px;}
-@media screen and (max-width: 320px){
+@media screen and (max-width: 380px){
 	.panda2 img{width:100%;}
 	.p{display:none;}
 	.arrow{display:block;position:absolute;right:0;top:100px;}
