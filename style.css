@@ -231,8 +231,6 @@
 	height:335px;
 	background:#F1F3F2;
 	}
-	
-.h6{}
 .user{margin-left:5px;}
 .test{display:flex;
 	justify-content:center;}
@@ -373,7 +371,6 @@
 .by{color:#dcdcdc;
 	margin-left:80%;
 	padding:5px 0;}
-	}
 .between{display:flex;
 	justify-content:space-between;}
 .pet{width:100%;}
